@@ -1,0 +1,37 @@
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+*** Initiating Tokenizing Phrases Demonstration ***
+Enter several phrases separated by commas (type 'q' to quit):
+one,two,three
+Phrase #0: 'one'
+Phrase #1: 'two'
+Phrase #2: 'three'
+Enter several phrases separated by commas (type 'q' to quit):
+dog jumped over,,the fence
+Phrase #3: 'dog jumped over'
+Phrase #4: 'the fence'
+Enter several phrases separated by commas (type 'q' to quit):
+q what about,the break fast,?
+Phrase #5: 'q what about'
+Phrase #6: 'the break fast'
+Phrase #7: '?'
+Enter several phrases separated by commas (type 'q' to quit):
+orange, ,and, ,green
+Phrase #8: 'orange'
+Phrase #9: ' '
+Phrase #10: 'and'
+Phrase #11: ' '
+Phrase #12: 'green'
+Enter several phrases separated by commas (type 'q' to quit):
+WHY ARE YOU THERE?, SITTING ALL ALONE.,
+Phrase #13: 'WHY ARE YOU THERE?'
+Phrase #14: ' SITTING ALL ALONE.'
+Enter several phrases separated by commas (type 'q' to quit):
+q,ok,bye
+Phrase #18: 'q'
+Phrase #19: 'ok'
+Phrase #20: 'bye'
+*** Tokenizing Phrases Demonstration Concluded ***
